@@ -25,4 +25,3 @@ python main.py
 ```
 
 Then type your request and name of output filename.
-# EbayScraper
