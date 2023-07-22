@@ -16,7 +16,7 @@ Collects such information as:
 Clone the repository and install dependies.
 ```
 git clone https://github.com/MorpheyX/EbayScraper
-cd Ebay scraper
+cd EbayScraper
 pip install -r requirements.txt
 ```
 
